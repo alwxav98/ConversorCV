@@ -1,0 +1,14 @@
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\bin\Debug\net8.0\ConversorCV.exe
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\bin\Debug\net8.0\ConversorCV.deps.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\bin\Debug\net8.0\ConversorCV.runtimeconfig.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\bin\Debug\net8.0\ConversorCV.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\bin\Debug\net8.0\ConversorCV.pdb
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.AssemblyInfoInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.AssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\refint\ConversorCV.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.pdb
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ConversorCV.genruntimeconfig.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\ConversorCV\ConversorCV\obj\Debug\net8.0\ref\ConversorCV.dll
